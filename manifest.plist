@@ -23,19 +23,19 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>image.512x512.png图片下载路径</string>
+					<string>https://raw.githubusercontent.com/ahuei16888/test/master/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>应用的bundle-identifier</string>
+				<string>www.cw.pub</string>
 				<key>bundle-version</key>
 				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>下载时提示是否安装改应用的应用名字</string>
+				<string>funmetv</string>
 			</dict>
 		</dict>
 	</array>
